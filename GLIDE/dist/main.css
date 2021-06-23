@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css?family=Tangerine");
+blockquote {
+  color: #f1f1f1;
+  font-size: 18px;
+}
+
+figcaption {
+  color: #f1f1f1;
+  font-size: 18px;
+}
+
+#fcpt {
+  color: blue;
+  margin-bottom: 30px;
+}
+
+#bot {
+  border-radius: 15px;
+  width: 90px;
+  background-color: #c709c7;
+  border-style: none;
+  height: 25px;
+  color: #f1f1f1;
+}
+
+.figu {
+  border-style: none;
+  margin-top: 60px;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  text-align: center;
+}
+
+.figu:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.5);
+}
+
+.ii i {
+  padding: 10px;
+  color: #a09999;
+}
+
+.ii i:hover {
+  color: #be0cbe;
+}
+
+#ram {
+  color: #444343;
+}
+
+#oct {
+  color: #444343;
+}
+
+.arrw {
+  margin-top: 10px;
+}
